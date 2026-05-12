@@ -78,4 +78,18 @@ Resposta:
   "localidade": "São Paulo",
   "uf": "SP"
 }
+
+## Como executar
+
+```bash
+javac CaixaEletronico.java
+
+java CaixaEletronico
+```
+
+## API utilizada
+
+ViaCEP
+
+https://viacep.com.br/
 ```
